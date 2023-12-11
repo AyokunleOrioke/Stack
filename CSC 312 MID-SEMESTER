@@ -1,4 +1,4 @@
-//* NO 2- PALINDROME 
+//* NO 2- PALINDROME IN PYTHON
 
 {
    def is_palindrome(s: str) -> bool:
@@ -22,7 +22,7 @@ else:
   
 }
 
-//* NO 3- PUSH OPERATION 
+//* NO 3- PUSH OPERATION WRITTEN IN C++
 #include <iostream>
 #include <cstdlib>
 
